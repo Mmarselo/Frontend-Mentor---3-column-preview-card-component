@@ -1,5 +1,6 @@
 # Frontend-Mentor---3-column-preview-card-component
 
+![desktop-design](https://user-images.githubusercontent.com/97993630/154513408-135f9ab7-4635-4f22-901e-fe1663e82462.jpg)
 
 ## Welcome! 👋
 
